@@ -1,0 +1,14 @@
+.navbar-phone {
+  letter-spacing: -1px;
+}
+
+@media (max-width: 1024.98px) {
+  .navbar-phone {
+    font-size: 17px;
+    line-height: 31px;
+  }
+}
+
+.navbar-phone a:hover {
+  text-decoration: none;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "purgecss-reproduction",
+  "version": "1.0.0",
+  "description": "reproduce PurgeCSS issues",
+  "main": "index.js",
+  "scripts": {
+    "start": "purgecss --config purgecss.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ffloriel/purgecss-reproduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ffloriel/purgecss-reproduction/issues"
+  },
+  "homepage": "https://github.com/Ffloriel/purgecss-reproduction#readme",
+  "dependencies": {
+    "purgecss": "^4.1.3"
+  }
+}
